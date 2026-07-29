@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Official Game Rulebook</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- Clean, professional theme -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    /* Sleek custom adjustments */
+    :root { --theme-color: #2b73fff; }
+    .sidebar { background-color: #f9f9f9; }
+  </style>
+</head>
+<body>
+  <div id="app">Loading rulebook...</div>
+  <script>
+    window.$docsify = {
+      name: 'My Game Rules', // <-- Change this to your game name
+      loadSidebar: true,     // Activates subpages & sidebar menu
+      subMaxLevel: 2,        // Auto-indexes headers inside your pages
+      search: 'auto'         // Adds a live search bar at the top left
+    }
+  </script>
+  <!-- Main engine and search scripts -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+</html>
