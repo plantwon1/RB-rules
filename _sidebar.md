@@ -38,22 +38,24 @@
 * 7. Fouls
   * [Technical Violations](fouls/technical-violations.md)
   * [Cynical Fouls](fouls/cynical-fouls.md)
-  * [SPS / BALS / BACS](fouls/abbreviations.md)
-  * [Movement & Guarding (Travelling/Goal Guarding)](fouls/movement-guarding.md)
-  * [Goalkeeper Interactions](fouls/goalkeeper-interactions.md)
-  * [Illegal Assist / Touchdown / Ghosting](fouls/illegal-actions.md)
-  * [Conduct & Equipment Drops](fouls/conduct.md)
+  * [SPS / BALS / BACS](fouls/goal-stopping-fouls.md)
+  * [Movement & Goal-hanging (Travelling/Goal Hanging)](fouls/movement.md)
+  * [Illegal Goalkeeper Interactions](fouls/illegal-goalkeeper-interactions.md)
+  * [Illegal Shooting Attempts: Doubling / Touchdown / Blocking Goalkeeper](fouls/illegal-shots.md)
+  * [Misuse of Equipment](fouls/equipment.md)
+  * [Unsporting conduct/cheating](fouls/conduct.md)
   * [Outside Interference](fouls/interference.md)
 
-* 8. Penalties
+* 8. Penalties & Restarts
   * [Restarts (Throw-In/Drop-Off/Free Hit)](penalties/restarts.md)
   * [Penalty Hit](penalties/penalty-hit.md)
   * [Cards (Yellow/Red)](penalties/cards.md)
   * [Awarded Goal](penalties/awarded-goal.md)
 
-* 9. Substitutions
-  * [Substitution Procedures](substitutions/procedures.md)
-  * [Illegal Substitutions](substitutions/illegal.md)
+* 9. Team structure
+  * [Substitution Procedures](team-structure/substitution-procedures.md)
+  * [Illegal Substitutions](team-structure/illegal-substitutions.md)
+  * [Coaches & Staff](team-structure/coaches.md)
 
 * [10. Officials](officials.md)
 * [11. Glossary](glossary.md)
