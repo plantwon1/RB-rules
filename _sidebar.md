@@ -1,62 +1,70 @@
-* [🏠 Home](/README.md)
+<!-- markdownlint-disable first-line-h1 -->
 
-* 1. Introduction
-  * [What the Sport Is](/introduction/what-is-it.md)
-  * [Objective of the Game](/introduction/objective.md)
-  * [General Flow of Play](/introduction/flow-of-play.md)
+- 1. Introduction
 
-* 2. Match Structure
-  * [Team Size](/match-structure/team-size.md)
-  * [Halves](/match-structure/halves.md)
-  * [Overtime](/match-structure/overtime.md)
-  * [Shootouts](/match-structure/shootouts.md)
+  - [What the Sport Is](what-is-it.md)
+  - [Objective of the Game](objective.md)
+  - [General Flow of Play](flow-of-play.md)
 
-* 3. Field of Play
-  * [Dimensions](/field-of-play/dimensions.md)
-  * [Goal Zones](/field-of-play/goal-zones.md)
-  * [Shooting Areas](/field-of-play/shooting-areas.md)
-  * [Goal Dimensions](/field-of-play/goal-dimensions.md)
-  * [Markings](/field-of-play/markings.md)
+- 2. Match Structure
 
-* 4. Player Positions & Equipment
-  * [Strikers (Bats)](/positions-equipment/strikers.md)
-  * [Offensive Midfielders (Gloves)](/positions-equipment/offensive-midfielders.md)
-  * [Defensive Midfielders (Paddles)](/positions-equipment/defensive-midfielders.md)
-  * [Defenders (Nets)](/positions-equipment/defenders.md)
-  * [Goalkeeper (Large Racket)](/positions-equipment/goalkeeper.md)
+  - [Team Size](team-size.md)
+  - [Halves](halves.md)
+  - [Overtime](overtime.md)
+  - [Shootouts](shootouts.md)
 
-* 5. General Gameplay
-  * [Starting Play](/gameplay/starting-play.md)
-  * [Moving the Ball](/gameplay/moving-the-ball.md)
-  * [Legal Body Parts](/gameplay/legal-body-parts.md)
-  * [Equipment Use](/gameplay/equipment-use.md)
-  * [Scoring](/gameplay/scoring.md)
-  * [Restarts](/gameplay/restarts.md)
+- 3. Field of Play
 
-* [6. Goal Zone & Shooting Area Rules](/goal-zone-rules.md)
+  - [Dimensions](dimensions.md)
+  - [Goal Zones](goal-zones.md)
+  - [Shooting Areas](shooting-areas.md)
+  - [Goal Dimensions](goal-dimensions.md)
+  - [Markings](markings.md)
 
-* 7. Fouls
-  * [Technical Violations](/fouls/technical-violations.md)
-  * [Cynical Fouls](/fouls/cynical-fouls.md)
-  * [SPS / BALS / BACS](/fouls/goal-stopping-fouls.md)
-  * [Movement & Goal-hanging](/fouls/movement.md)
-  * [Illegal Goalkeeper Interactions](/fouls/illegal-goalkeeper-interactions.md)
-  * [Illegal Shooting Attempts](/fouls/illegal-shots.md)
-  * [Misuse of Equipment](/fouls/equipment.md)
-  * [Unsporting conduct/cheating](/fouls/conduct.md)
-  * [Outside Interference](/fouls/interference.md)
+- 4. Player Positions & Equipment
 
-* 8. Penalties & Restarts
-  * [Restarts](/penalties/restarts.md)
-  * [Penalty Hit](/penalties/penalty-hit.md)
-  * [Cards (Yellow/Red)](/penalties/cards.md)
-  * [Awarded Goal](/penalties/awarded-goal.md)
+  - [Strikers (Bats)](strikers.md)
+  - [Offensive Midfielders (Gloves)](offensive-midfielders.md)
+  - [Defensive Midfielders (Paddles)](defensive-midfielders.md)
+  - [Defenders (Nets)](defenders.md)
+  - [Goalkeeper (Large Racket)](goalkeeper.md)
 
-* 9. Team structure
-  * [Substitution Procedures](/team-structure/substitution-procedures.md)
-  * [Illegal Substitutions](/team-structure/illegal-substitutions.md)
-  * [Coaches & Staff](/team-structure/coaches.md)
+- 5. General Gameplay
 
-* [10. Officials](/officials.md)
-* [11. Glossary](/glossary.md)
-* [12. Illustrated Field Diagram](/field-diagram.md)
+  - [Starting Play](starting-play.md)
+  - [Moving the Ball](moving-the-ball.md)
+  - [Legal Body Parts](legal-body-parts.md)
+  - [Equipment Use](equipment-use.md)
+  - [Scoring](scoring.md)
+  - [Restarts](restarts.md)
+
+* [6. Goal Zone & Shooting Area Rules](goal-zone-rules.md)
+
+- 7. Fouls
+
+  - [Technical Violations](technical-violations.md)
+  - [Cynical Fouls](cynical-fouls.md)
+  - [SPS / BALS / BACS](goal-stopping-fouls.md)
+  - [Movement & Goal-hanging](movement.md)
+  - [Illegal Goalkeeper Interactions](illegal-goalkeeper-interactions.md)
+  - [Illegal Shooting Attempts](illegal-shots.md)
+  - [Misuse of Equipment](equipment.md)
+  - [Unsporting conduct/cheating](conduct.md)
+  - [Outside Interference](interference.md)
+
+- 8. Penalties & Restarts
+
+  - [Restarts](restarts-penalties.md)
+  - [Penalty Hit](penalty-hit.md)
+  - [Cards (Yellow/Red)](cards.md)
+  - [Awarded Goal](awarded-goal.md)
+
+- 9. Team structure
+
+  - [Substitution Procedures](substitution-procedures.md)
+  - [Illegal Substitutions](illegal-substitutions.md)
+  - [Coaches & Staff](coaches.md)
+
+* [10. Officials](officials.md)
+* [11. Glossary](glossary.md)
+* [12. Illustrated Field Diagram](field-diagram.md)
