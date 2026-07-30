@@ -33,7 +33,7 @@
   - [Scoring](scoring.md)
   - [Restarts](restarts.md)
 
-* [6. Goal Zone & Shooting Area Rules](goal-zone-rules.md)
+- [6. Goal Zone & Shooting Area Rules](goal-zone-rules.md)
 
 - 7. Fouls
   - [Technical Violations](technical-violations.md)
@@ -57,6 +57,6 @@
   - [Illegal Substitutions](illegal-substitutions.md)
   - [Coaches & Staff](coaches.md)
 
-* [10. Officials](officials.md)
-* [11. Glossary](glossary.md)
-* [12. Illustrated Field Diagram](field-diagram.md)
+- [10. Officials](officials.md)
+- [11. Glossary](glossary.md)
+- [12. Illustrated Field Diagram](field-diagram.md)
